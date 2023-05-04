@@ -1,4 +1,4 @@
-Hi 👋 My name is Jamie McGee
+Hi 👋 My name is Jamie
 ============================
 
 Level 8 - Applied Computing Student
